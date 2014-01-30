@@ -41,9 +41,9 @@ then execute the following:
     qmake
     make
 
-Alternatively, install `Qt Creator`_ and open the `litecoin-qt.pro` file.
+Alternatively, install `Qt Creator`_ and open the `dogecoin-qt.pro` file.
 
-An executable named `litecoin-qt` will be built.
+An executable named `dogecoin-qt` will be built.
 
 .. _`Qt Creator`: http://qt-project.org/downloads/
 
